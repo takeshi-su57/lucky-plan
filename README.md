@@ -9,4 +9,4 @@ Step 1 - Testnet Portfolio
 	D. Implement LeaderSeeker
 
 Step 2 - Arbitrum Portfolio
-Step 3 - +++![image](https://github.com/user-attachments/assets/e3ea8d03-4122-418b-bf4b-91ab4d0b55a8)
+Step 3 - +++
